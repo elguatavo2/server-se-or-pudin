@@ -240,3 +240,56 @@
 [01:59:12] [Async Chat Thread - #56/INFO]: [Not Secure] <ThiaguitoOwO2021> x2 pe
 [01:59:13] [Server thread/INFO]: ThiaguitoOwO2021 lost connection: Disconnected
 [01:59:13] [Server thread/INFO]: ThiaguitoOwO2021 left the game
+[02:00:15] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp Soy_Chetos230
+[02:00:15] [Server thread/INFO]: [elguatavo7u7159: Teleported elguatavo7u7159 to Soy_Chetos230]
+[02:00:28] [Server thread/INFO]: ist_shadow has made the advancement [Ice Bucket Challenge]
+[02:00:34] [Server thread/INFO]: elguatavo7u7159 issued server command: /clear ist_shadow
+[02:00:34] [Server thread/INFO]: [elguatavo7u7159: Removed 592 item(s) from player ist_shadow]
+[02:00:43] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp ist_shadow
+[02:00:43] [Server thread/INFO]: [elguatavo7u7159: Teleported elguatavo7u7159 to ist_shadow]
+[02:01:13] [Server thread/INFO]: elguatavo7u7159 issued server command: /tp Soy_Chetos230
+[02:01:13] [Server thread/INFO]: [elguatavo7u7159: Teleported elguatavo7u7159 to Soy_Chetos230]
+[02:01:25] [Server thread/INFO]: ist_shadow lost connection: Disconnected
+[02:01:25] [Server thread/INFO]: ist_shadow left the game
+[02:01:28] [Server thread/INFO]: Soy_Chetos230 lost connection: Disconnected
+[02:01:28] [Server thread/INFO]: Soy_Chetos230 left the game
+[02:01:39] [Server thread/INFO]: Stopping the server
+[02:01:39] [Server thread/INFO]: Stopping server
+[02:01:39] [Server thread/INFO]: [ViaRewind] Disabling ViaRewind v4.0.7
+[02:01:39] [Server thread/INFO]: [Geyser-Spigot] Disabling Geyser-Spigot v2.7.1-SNAPSHOT
+[02:01:39] [Server thread/INFO]: [Geyser-Spigot] Shutting down Geyser.
+[02:01:39] [Server thread/INFO]: [Geyser-Spigot] Geyser shutdown successfully.
+[02:01:39] [Server thread/INFO]: [LoginSecurity] Disabling LoginSecurity v3.3.0
+[02:01:39] [Server thread/INFO]: [LoginSecurity] Waiting for queued tasks...
+[02:01:39] [Server thread/INFO]: [LoginSecurity] ExecutorService shut down, ready to disable.
+[02:01:39] [Server thread/INFO]: [ViaBackwards] Disabling ViaBackwards v5.3.2
+[02:01:39] [Server thread/INFO]: [floodgate] Disabling floodgate v2.2.4-SNAPSHOT (b116-0e3163c)
+[02:01:39] [Server thread/INFO]: [ViaVersion] Disabling ViaVersion v5.3.2
+[02:01:39] [Server thread/INFO]: [ViaVersion] ViaVersion has been disabled; uninjected the platform and shut down the scheduler.
+[02:01:39] [Server thread/INFO]: Saving players
+[02:01:39] [Server thread/INFO]: elguatavo7u7159 lost connection: Server closed
+[02:01:39] [Server thread/INFO]: elguatavo7u7159 left the game
+[02:01:39] [WebSocketConnectReadThread-250/INFO]: [Geyser-Spigot] The skin uploader has been closed
+[02:01:39] [Server thread/INFO]: Saving worlds
+[02:01:39] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:01:39] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[02:01:39] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[02:01:39] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[02:01:40] [Server thread/INFO]: [ChunkHolderManager] Saved 927 block chunks, 630 entity chunks, 3 poi chunks in world 'world' in 1.28s
+[02:01:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:01:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Saved 855 block chunks, 134 entity chunks, 0 poi chunks in world 'world_nether' in 0.41s
+[02:01:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:01:41] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[02:01:41] [Server thread/INFO]: [ChunkHolderManager] Saved 10 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.01s
+[02:01:41] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:01:41] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[02:01:41] [Server thread/INFO]: Flushing Chunk IO
+[02:01:41] [Server thread/INFO]: Closing Thread Pool
+[02:01:41] [Server thread/INFO]: Closing Server
