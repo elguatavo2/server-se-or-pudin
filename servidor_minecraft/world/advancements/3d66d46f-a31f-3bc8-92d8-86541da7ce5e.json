@@ -740,6 +740,7 @@
       "minecraft:spider": "2025-05-20 23:52:50 +0000",
       "minecraft:creeper": "2025-05-21 00:24:32 +0000",
       "minecraft:witch": "2025-05-21 00:06:25 +0000",
+      "minecraft:piglin": "2025-05-21 00:46:03 +0000",
       "minecraft:zombie": "2025-05-20 23:52:53 +0000",
       "minecraft:zombie_villager": "2025-05-21 00:10:19 +0000"
     },
@@ -994,6 +995,12 @@
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-21 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2025-05-21 00:44:52 +0000"
     },
     "done": true
   },
