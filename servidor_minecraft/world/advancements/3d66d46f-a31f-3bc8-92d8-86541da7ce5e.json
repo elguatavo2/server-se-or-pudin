@@ -313,6 +313,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "cooked_porkchop": "2025-05-21 00:54:47 +0000",
       "cooked_mutton": "2025-05-20 23:41:56 +0000",
       "cooked_beef": "2025-05-20 23:47:20 +0000",
       "apple": "2025-05-20 23:33:57 +0000",
@@ -992,9 +993,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-05-21 00:55:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-05-21 00:55:04 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/enter_the_nether": {
     "criteria": {
       "entered_nether": "2025-05-21 00:36:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-21 00:52:45 +0000"
     },
     "done": true
   },

@@ -729,6 +729,7 @@
     "criteria": {
       "minecraft:skeleton": "2025-05-20 23:46:00 +0000",
       "minecraft:spider": "2025-05-20 23:51:57 +0000",
+      "minecraft:enderman": "2025-05-21 00:52:33 +0000",
       "minecraft:zombie": "2025-05-20 23:45:49 +0000"
     },
     "done": false
@@ -1279,6 +1280,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2025-05-21 00:51:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_porkchop": {
     "criteria": {
       "has_porkchop": "2025-05-21 00:29:30 +0000"
@@ -1303,9 +1310,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-05-21 00:55:17 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-05-21 00:29:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-05-21 00:49:43 +0000"
     },
     "done": true
   },
