@@ -213,6 +213,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/magma_block": {
+    "criteria": {
+      "has_magma_cream": "2025-05-21 00:22:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-05-20 23:33:18 +0000"
@@ -264,6 +270,12 @@
   "minecraft:recipes/building_blocks/pink_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-20 23:58:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 00:18:11 +0000"
     },
     "done": true
   },
@@ -446,9 +458,10 @@
       "minecraft:crimson_forest": "2025-05-21 00:13:18 +0000",
       "minecraft:nether_wastes": "2025-05-20 23:59:13 +0000",
       "minecraft:soul_sand_valley": "2025-05-21 00:11:37 +0000",
-      "minecraft:basalt_deltas": "2025-05-21 00:04:24 +0000"
+      "minecraft:basalt_deltas": "2025-05-21 00:04:24 +0000",
+      "minecraft:warped_forest": "2025-05-21 00:26:08 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/misc/gold_nugget_from_smelting": {
     "criteria": {
@@ -846,6 +859,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_basalt_from_basalt_stonecutting": {
+    "criteria": {
+      "has_basalt": "2025-05-21 00:18:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/white_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-05-20 23:58:30 +0000"
@@ -861,6 +880,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-20 23:47:14 +0000",
+      "minecraft:magma_cube": "2025-05-21 00:22:43 +0000",
       "minecraft:spider": "2025-05-20 23:43:33 +0000",
       "minecraft:piglin": "2025-05-21 00:02:44 +0000",
       "minecraft:zombie": "2025-05-20 23:40:17 +0000"
@@ -1206,6 +1226,12 @@
   "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
     "criteria": {
       "has_blackstone": "2025-05-21 00:04:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_basalt": {
+    "criteria": {
+      "has_basalt": "2025-05-21 00:18:11 +0000"
     },
     "done": true
   },
